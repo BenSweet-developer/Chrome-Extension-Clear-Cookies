@@ -2,14 +2,14 @@
 
 This extension will help you to clear the cookies of a website.
 
-# Tech
+### Tech
 - [javascript] - Scripting Language
 - [Get Start] - Get start to develop chrome extension
 
    [javascript]: <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
    [Get Start]: <https://developer.chrome.com/docs/extensions/mv3/getstarted/>
 
-# For developers
+### For developers
    1. Clone this repository to computer.
    2. Open the Extension Management page by navigating to chrome://extensions.
    3. Enable Developer Mode by clicking the toggle switch next to Developer mode.
