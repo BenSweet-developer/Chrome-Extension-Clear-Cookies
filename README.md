@@ -4,7 +4,7 @@ This extension will help you to clear the cookies of a website.
 
 # Tech
 - [javascript] - Scripting Language
-- [Get Start] - Get start to develop chrome extenstion
+- [Get Start] - Get start to develop chrome extension
 
    [javascript]: <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
    [Get Start]: <https://developer.chrome.com/docs/extensions/mv3/getstarted/>
